@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafamex-clients", "hafamex-clients\hafamex-clients.csproj", "{8D6AC988-AD67-F75B-F335-836A9C98FE26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafamex-server", "hafamex-server\hafamex-server.csproj", "{EDB449CE-FC95-59BB-6768-ADDE77C0B97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6AC988-AD67-F75B-F335-836A9C98FE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6AC988-AD67-F75B-F335-836A9C98FE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6AC988-AD67-F75B-F335-836A9C98FE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6AC988-AD67-F75B-F335-836A9C98FE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB449CE-FC95-59BB-6768-ADDE77C0B97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB449CE-FC95-59BB-6768-ADDE77C0B97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB449CE-FC95-59BB-6768-ADDE77C0B97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB449CE-FC95-59BB-6768-ADDE77C0B97E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F08738BA-A028-4785-9B2C-373427E3C03B}
+	EndGlobalSection
+EndGlobal

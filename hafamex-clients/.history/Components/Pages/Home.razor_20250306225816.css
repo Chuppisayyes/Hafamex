@@ -1,0 +1,42 @@
+
+
+.header{
+    .container{
+        .hd-left{
+            .logo{
+                img{
+
+                }
+            }
+        }
+        .hd-right{
+            display: flex;
+            align-items: center;
+            .menu{
+                ul{
+                    display: flex;
+                    list-style: none;
+                    justify-content: space-around;
+                    align-items: center;
+                    li{
+                        margin-right: 30px;
+                        a{
+                            font-size: 25px;
+                            text-decoration: none;
+                            color: black;
+                        }
+                    
+                        &:last-child{
+                            margin-right: 0;
+                        }
+                    }
+                    .has-dropdown{
+                        position: relative;
+                        .sub-menu{
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

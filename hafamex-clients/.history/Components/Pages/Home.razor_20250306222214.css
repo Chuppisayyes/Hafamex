@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+}
+
+.header{
+    .container{
+        .hd-left{
+            .logo{
+                img{
+                    width: 100px;
+                }
+            }
+        }
+        
+    }
+
+}

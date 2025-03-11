@@ -1389,13 +1389,174 @@
       ]
     },
     {
+      "Route": "hafamex-clients.m05467cap2.styles.css",
+      "AssetFile": "hafamex-clients.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000285632676"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m05467cap2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+        },
+        {
+          "Name": "label",
+          "Value": "hafamex-clients.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "hafamex-clients.m05467cap2.styles.css",
+      "AssetFile": "hafamex-clients.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m05467cap2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+        },
+        {
+          "Name": "label",
+          "Value": "hafamex-clients.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "hafamex-clients.m05467cap2.styles.css.gz",
+      "AssetFile": "hafamex-clients.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m05467cap2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8="
+        },
+        {
+          "Name": "label",
+          "Value": "hafamex-clients.styles.css.gz"
+        }
+      ]
+    },
+    {
       "Route": "hafamex-clients.styles.css",
       "AssetFile": "hafamex-clients.styles.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000289603244"
+          "Quality": "0.000285632676"
         }
       ],
       "ResponseHeaders": [
@@ -1413,7 +1574,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3452"
+          "Value": "3500"
         },
         {
           "Name": "Content-Type",
@@ -1421,15 +1582,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TxK/hlyMDobCF1yOXMin7C/o3wH9HRRsBRyKb5IOLJQ=\""
+          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ=\""
+          "Value": "W/\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 18:54:44 GMT"
+          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
         },
         {
           "Name": "Vary",
@@ -1439,7 +1600,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ="
+          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
         }
       ]
     },
@@ -1458,7 +1619,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19524"
+          "Value": "20186"
         },
         {
           "Name": "Content-Type",
@@ -1466,17 +1627,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ=\""
+          "Value": "\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 18:54:44 GMT"
+          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ="
+          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
         }
       ]
     },
@@ -1499,7 +1660,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3452"
+          "Value": "3500"
         },
         {
           "Name": "Content-Type",
@@ -1507,11 +1668,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TxK/hlyMDobCF1yOXMin7C/o3wH9HRRsBRyKb5IOLJQ=\""
+          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 18:54:44 GMT"
+          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
         },
         {
           "Name": "Vary",
@@ -1521,168 +1682,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TxK/hlyMDobCF1yOXMin7C/o3wH9HRRsBRyKb5IOLJQ="
-        }
-      ]
-    },
-    {
-      "Route": "hafamex-clients.wfecmv5ab8.styles.css",
-      "AssetFile": "hafamex-clients.styles.css.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000289603244"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TxK/hlyMDobCF1yOXMin7C/o3wH9HRRsBRyKb5IOLJQ=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 18:54:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wfecmv5ab8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ="
-        },
-        {
-          "Name": "label",
-          "Value": "hafamex-clients.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "hafamex-clients.wfecmv5ab8.styles.css",
-      "AssetFile": "hafamex-clients.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19524"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 18:54:44 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wfecmv5ab8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ="
-        },
-        {
-          "Name": "label",
-          "Value": "hafamex-clients.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "hafamex-clients.wfecmv5ab8.styles.css.gz",
-      "AssetFile": "hafamex-clients.styles.css.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TxK/hlyMDobCF1yOXMin7C/o3wH9HRRsBRyKb5IOLJQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 18:54:44 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wfecmv5ab8"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TxK/hlyMDobCF1yOXMin7C/o3wH9HRRsBRyKb5IOLJQ="
-        },
-        {
-          "Name": "label",
-          "Value": "hafamex-clients.styles.css.gz"
+          "Value": "sha256-kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8="
         }
       ]
     },

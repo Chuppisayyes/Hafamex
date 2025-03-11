@@ -109,16 +109,16 @@
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4055"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226f\u002B/dtVZKRgXNvChm\u002BFUWZTEyee9EDvuI2FK\u002BLVhS5E=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Mar 2025 18:36:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/hafamex-clients/hafamex-clients.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hafamex-clients.wfecmv5ab8.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hafamex-clients.m05467cap2.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19524"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 18:54:44 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mosUeA5T86W\u002BSgpdBTzJC2npgCY56c6L05mL3Z0yiyY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20186"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mosUeA5T86W\u002BSgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 11:30:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/hafamex-clients/hafamex-clients.wfecmv5ab8.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hafamex-clients.wfecmv5ab8.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/hafamex-clients/hafamex-clients.m05467cap2.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\hafamex-clients.m05467cap2.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wfecmv5ab8"},{"Name":"integrity","Value":"sha256-HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ="},{"Name":"label","Value":"_content/hafamex-clients/hafamex-clients.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19524"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022HFYLNJqLraRHXztxVreehj9J2WLemeXOUobfcXvkEZQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 08 Mar 2025 18:54:44 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m05467cap2"},{"Name":"integrity","Value":"sha256-mosUeA5T86W\u002BSgpdBTzJC2npgCY56c6L05mL3Z0yiyY="},{"Name":"label","Value":"_content/hafamex-clients/hafamex-clients.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20186"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022mosUeA5T86W\u002BSgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 Mar 2025 11:30:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/hafamex-clients/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

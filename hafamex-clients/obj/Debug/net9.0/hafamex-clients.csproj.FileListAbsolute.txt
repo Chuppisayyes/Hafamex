@@ -80,5 +80,5 @@ E:\Source\hafamex-clients\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor
 E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\5gih915fwk-03ghslhaa0.gz
 E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\ujomjocis4-wne7nhj2ah.gz
 E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\u4x6tffqth-hi1lpfjag5.gz
-E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\baq8ctmubs-wfecmv5ab8.gz
-E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\ee2j129e2l-wfecmv5ab8.gz
+E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\baq8ctmubs-m05467cap2.gz
+E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\ee2j129e2l-m05467cap2.gz

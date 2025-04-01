@@ -78,7 +78,8 @@ E:\Source\hafamex-clients\obj\Debug\net9.0\ref\hafamex-clients.dll
 E:\Source\hafamex-clients\obj\Debug\net9.0\scopedcss\Components\Components\Header\Header.razor.rz.scp.css
 E:\Source\hafamex-clients\obj\Debug\net9.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
 E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\5gih915fwk-03ghslhaa0.gz
-E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\ujomjocis4-wne7nhj2ah.gz
 E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\u4x6tffqth-hi1lpfjag5.gz
-E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\baq8ctmubs-m05467cap2.gz
-E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\ee2j129e2l-m05467cap2.gz
+E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\ujomjocis4-exxstyg4a0.gz
+E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\k4yhskciot-lidreghs0l.gz
+E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\baq8ctmubs-nqtf54683s.gz
+E:\Source\hafamex-clients\obj\Debug\net9.0\compressed\ee2j129e2l-nqtf54683s.gz

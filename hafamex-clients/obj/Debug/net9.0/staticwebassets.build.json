@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FVU8VdnNbiqaiwZIsJtF8HiVSynaL63BaT7FK4Eelqo=",
+  "Hash": "KL6UjUWkNZwCHiEK8/vuy0HlVxP+/qc3wDVtIdgkTbw=",
   "Source": "hafamex-clients",
   "BasePath": "_content/hafamex-clients",
   "Mode": "Default",
@@ -269,12 +269,12 @@
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-m05467cap2.gz",
+      "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-nqtf54683s.gz",
       "SourceId": "hafamex-clients",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/hafamex-clients",
-      "RelativePath": "hafamex-clients#[.{fingerprint=m05467cap2}]?.styles.css.gz",
+      "RelativePath": "hafamex-clients#[.{fingerprint=nqtf54683s}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -283,8 +283,8 @@
       "RelatedAsset": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\bundle\\hafamex-clients.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mr79e09bir",
-      "Integrity": "kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=",
+      "Fingerprint": "o5saug9qac",
+      "Integrity": "9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\bundle\\hafamex-clients.styles.css"
@@ -416,12 +416,12 @@
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-m05467cap2.gz",
+      "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-nqtf54683s.gz",
       "SourceId": "hafamex-clients",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/hafamex-clients",
-      "RelativePath": "hafamex-clients#[.{fingerprint=m05467cap2}]!.bundle.scp.css.gz",
+      "RelativePath": "hafamex-clients#[.{fingerprint=nqtf54683s}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -430,8 +430,8 @@
       "RelatedAsset": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\hafamex-clients.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mr79e09bir",
-      "Integrity": "kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=",
+      "Fingerprint": "o5saug9qac",
+      "Integrity": "9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\hafamex-clients.bundle.scp.css"
@@ -540,6 +540,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\k4yhskciot-lidreghs0l.gz",
+      "SourceId": "hafamex-clients",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/hafamex-clients",
+      "RelativePath": "Assets/Images/world#[.{fingerprint=lidreghs0l}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\Images\\world.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "08ukfanjvh",
+      "Integrity": "ACOa2owX4oyCWSCeVJqAirf5gwpdQPhfLLjZlQLCAwk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\Images\\world.svg"
     },
     {
       "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\k6kogcx36u-kbrnm935zg.gz",
@@ -857,12 +878,12 @@
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\Styles\\font.css"
     },
     {
-      "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-wne7nhj2ah.gz",
+      "Identity": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-exxstyg4a0.gz",
       "SourceId": "hafamex-clients",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/hafamex-clients",
-      "RelativePath": "Assets/js/site#[.{fingerprint=wne7nhj2ah}]?.js.gz",
+      "RelativePath": "Assets/js/site#[.{fingerprint=exxstyg4a0}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -871,8 +892,8 @@
       "RelatedAsset": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mckqhemjjf",
-      "Integrity": "hrJksRDGiQduaGFGRa2XlG28w+YewnQrzfEloKfcY6Y=",
+      "Fingerprint": "0q0k0d049w",
+      "Integrity": "qJTqTq9u6Y866amGTY2YVlckFyL6qbplmiilV/JLixs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\js\\site.js"
@@ -1060,8 +1081,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "m05467cap2",
-      "Integrity": "mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=",
+      "Fingerprint": "nqtf54683s",
+      "Integrity": "saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\bundle\\hafamex-clients.styles.css"
@@ -1081,8 +1102,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "m05467cap2",
-      "Integrity": "mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=",
+      "Fingerprint": "nqtf54683s",
+      "Integrity": "saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\hafamex-clients.bundle.scp.css"
@@ -1214,6 +1235,27 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Images\\logoNenXanh.jpg"
     },
     {
+      "Identity": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\Images\\world.svg",
+      "SourceId": "hafamex-clients",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Source\\hafamex-clients\\wwwroot\\",
+      "BasePath": "_content/hafamex-clients",
+      "RelativePath": "Assets/Images/world#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lidreghs0l",
+      "Integrity": "02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Images\\world.svg"
+    },
+    {
       "Identity": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\js\\site.js",
       "SourceId": "hafamex-clients",
       "SourceType": "Discovered",
@@ -1228,8 +1270,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wne7nhj2ah",
-      "Integrity": "/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE=",
+      "Fingerprint": "exxstyg4a0",
+      "Integrity": "PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\js\\site.js"
@@ -2695,13 +2737,13 @@
       ]
     },
     {
-      "Route": "Assets/js/site.js",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-wne7nhj2ah.gz",
+      "Route": "Assets/Images/world.lidreghs0l.svg",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\k4yhskciot-lidreghs0l.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003076923077"
+          "Quality": "0.000018931506"
         }
       ],
       "ResponseHeaders": [
@@ -2711,15 +2753,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "324"
+          "Value": "52821"
         },
         {
           "Name": "ETag",
-          "Value": "\"hrJksRDGiQduaGFGRa2XlG28w+YewnQrzfEloKfcY6Y=\""
+          "Value": "\"ACOa2owX4oyCWSCeVJqAirf5gwpdQPhfLLjZlQLCAwk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 07:18:31 GMT"
+          "Value": "Wed, 12 Mar 2025 07:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lidreghs0l"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/world.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/world.lidreghs0l.svg",
+      "AssetFile": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\Images\\world.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 07:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lidreghs0l"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/world.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/world.lidreghs0l.svg.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\k4yhskciot-lidreghs0l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ACOa2owX4oyCWSCeVJqAirf5gwpdQPhfLLjZlQLCAwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 07:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lidreghs0l"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Images/world.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ACOa2owX4oyCWSCeVJqAirf5gwpdQPhfLLjZlQLCAwk="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/world.svg",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\k4yhskciot-lidreghs0l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000018931506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52821"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ACOa2owX4oyCWSCeVJqAirf5gwpdQPhfLLjZlQLCAwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 07:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2735,22 +2938,167 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE=\""
+          "Value": "W/\"02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE="
+          "Value": "sha256-02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc="
         }
       ]
     },
     {
-      "Route": "Assets/js/site.js",
+      "Route": "Assets/Images/world.svg",
+      "AssetFile": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\Images\\world.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 07:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-02TIiBCUUjaMHxrG3SeGZ7JEp1tn4q+bI+mzXgt4Zcc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Images/world.svg.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\k4yhskciot-lidreghs0l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ACOa2owX4oyCWSCeVJqAirf5gwpdQPhfLLjZlQLCAwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 07:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ACOa2owX4oyCWSCeVJqAirf5gwpdQPhfLLjZlQLCAwk="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/js/site.exxstyg4a0.js",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-exxstyg4a0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001945525292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qJTqTq9u6Y866amGTY2YVlckFyL6qbplmiilV/JLixs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 17:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "exxstyg4a0"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/js/site.exxstyg4a0.js",
       "AssetFile": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2760,7 +3108,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "639"
+          "Value": "1188"
         },
         {
           "Name": "Content-Type",
@@ -2768,121 +3116,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE=\""
+          "Value": "\"PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 07:18:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/js/site.js.gz",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-wne7nhj2ah.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "324"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hrJksRDGiQduaGFGRa2XlG28w+YewnQrzfEloKfcY6Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 07:18:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hrJksRDGiQduaGFGRa2XlG28w+YewnQrzfEloKfcY6Y="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/js/site.wne7nhj2ah.js",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-wne7nhj2ah.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003076923077"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "324"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hrJksRDGiQduaGFGRa2XlG28w+YewnQrzfEloKfcY6Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 07:18:31 GMT"
+          "Value": "Tue, 11 Mar 2025 17:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wne7nhj2ah"
+          "Value": "exxstyg4a0"
         },
         {
           "Name": "label",
@@ -2890,13 +3138,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE="
+          "Value": "sha256-PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c="
         }
       ]
     },
     {
-      "Route": "Assets/js/site.wne7nhj2ah.js",
-      "AssetFile": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\js\\site.js",
+      "Route": "Assets/js/site.exxstyg4a0.js.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-exxstyg4a0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2905,7 +3153,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "639"
+          "Value": "513"
         },
         {
           "Name": "Content-Type",
@@ -2913,56 +3161,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE=\""
+          "Value": "\"qJTqTq9u6Y866amGTY2YVlckFyL6qbplmiilV/JLixs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 07:18:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wne7nhj2ah"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/FAgP47/lJsV/ktjDY2S+Ef54LyuGnMoRUkJhMH/SqE="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/js/site.wne7nhj2ah.js.gz",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-wne7nhj2ah.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "324"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hrJksRDGiQduaGFGRa2XlG28w+YewnQrzfEloKfcY6Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 07 Mar 2025 07:18:31 GMT"
+          "Value": "Tue, 11 Mar 2025 17:16:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2980,7 +3183,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wne7nhj2ah"
+          "Value": "exxstyg4a0"
         },
         {
           "Name": "label",
@@ -2988,7 +3191,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hrJksRDGiQduaGFGRa2XlG28w+YewnQrzfEloKfcY6Y="
+          "Value": "sha256-qJTqTq9u6Y866amGTY2YVlckFyL6qbplmiilV/JLixs="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/js/site.js",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-exxstyg4a0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001945525292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qJTqTq9u6Y866amGTY2YVlckFyL6qbplmiilV/JLixs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 17:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/js/site.js",
+      "AssetFile": "E:\\Source\\hafamex-clients\\wwwroot\\Assets\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 17:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PmC2i5v8157Y/Sqo0lnraioqFj+haeaer/EnVpCfx4c="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/js/site.js.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ujomjocis4-exxstyg4a0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qJTqTq9u6Y866amGTY2YVlckFyL6qbplmiilV/JLixs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Mar 2025 17:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qJTqTq9u6Y866amGTY2YVlckFyL6qbplmiilV/JLixs="
         }
       ]
     },
@@ -3590,12 +3930,12 @@
     },
     {
       "Route": "hafamex-clients.bundle.scp.css",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-m05467cap2.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-nqtf54683s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000285632676"
+          "Quality": "0.000163505559"
         }
       ],
       "ResponseHeaders": [
@@ -3605,15 +3945,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3633,13 +3973,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "W/\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
@@ -3654,7 +3994,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20186"
+          "Value": "38231"
         },
         {
           "Name": "Content-Type",
@@ -3662,11 +4002,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3676,13 +4016,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
     {
       "Route": "hafamex-clients.bundle.scp.css.gz",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-m05467cap2.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-nqtf54683s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3691,7 +4031,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "Content-Type",
@@ -3699,11 +4039,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3721,18 +4061,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8="
+          "Value": "sha256-9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ="
         }
       ]
     },
     {
-      "Route": "hafamex-clients.m05467cap2.bundle.scp.css",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-m05467cap2.gz",
+      "Route": "hafamex-clients.nqtf54683s.bundle.scp.css",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-nqtf54683s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000285632676"
+          "Quality": "0.000163505559"
         }
       ],
       "ResponseHeaders": [
@@ -3742,15 +4082,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3770,13 +4110,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "W/\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m05467cap2"
+          "Value": "nqtf54683s"
         },
         {
           "Name": "label",
@@ -3784,12 +4124,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
     {
-      "Route": "hafamex-clients.m05467cap2.bundle.scp.css",
+      "Route": "hafamex-clients.nqtf54683s.bundle.scp.css",
       "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\hafamex-clients.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3799,7 +4139,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20186"
+          "Value": "38231"
         },
         {
           "Name": "Content-Type",
@@ -3807,11 +4147,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3821,7 +4161,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m05467cap2"
+          "Value": "nqtf54683s"
         },
         {
           "Name": "label",
@@ -3829,13 +4169,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
     {
-      "Route": "hafamex-clients.m05467cap2.bundle.scp.css.gz",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-m05467cap2.gz",
+      "Route": "hafamex-clients.nqtf54683s.bundle.scp.css.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\ee2j129e2l-nqtf54683s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3844,7 +4184,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "Content-Type",
@@ -3852,11 +4192,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3874,7 +4214,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m05467cap2"
+          "Value": "nqtf54683s"
         },
         {
           "Name": "label",
@@ -3882,18 +4222,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8="
+          "Value": "sha256-9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ="
         }
       ]
     },
     {
-      "Route": "hafamex-clients.m05467cap2.styles.css",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-m05467cap2.gz",
+      "Route": "hafamex-clients.nqtf54683s.styles.css",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-nqtf54683s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000285632676"
+          "Quality": "0.000163505559"
         }
       ],
       "ResponseHeaders": [
@@ -3903,15 +4243,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3931,13 +4271,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "W/\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m05467cap2"
+          "Value": "nqtf54683s"
         },
         {
           "Name": "label",
@@ -3945,12 +4285,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
     {
-      "Route": "hafamex-clients.m05467cap2.styles.css",
+      "Route": "hafamex-clients.nqtf54683s.styles.css",
       "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\scopedcss\\bundle\\hafamex-clients.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3960,7 +4300,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20186"
+          "Value": "38231"
         },
         {
           "Name": "Content-Type",
@@ -3968,11 +4308,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3982,7 +4322,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m05467cap2"
+          "Value": "nqtf54683s"
         },
         {
           "Name": "label",
@@ -3990,13 +4330,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
     {
-      "Route": "hafamex-clients.m05467cap2.styles.css.gz",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-m05467cap2.gz",
+      "Route": "hafamex-clients.nqtf54683s.styles.css.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-nqtf54683s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4005,7 +4345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "Content-Type",
@@ -4013,11 +4353,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4035,7 +4375,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m05467cap2"
+          "Value": "nqtf54683s"
         },
         {
           "Name": "label",
@@ -4043,18 +4383,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8="
+          "Value": "sha256-9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ="
         }
       ]
     },
     {
       "Route": "hafamex-clients.styles.css",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-m05467cap2.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-nqtf54683s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000285632676"
+          "Quality": "0.000163505559"
         }
       ],
       "ResponseHeaders": [
@@ -4064,15 +4404,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4092,13 +4432,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "W/\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
@@ -4113,7 +4453,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20186"
+          "Value": "38231"
         },
         {
           "Name": "Content-Type",
@@ -4121,11 +4461,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY=\""
+          "Value": "\"saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4135,13 +4475,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mosUeA5T86W+SgpdBTzJC2npgCY56c6L05mL3Z0yiyY="
+          "Value": "sha256-saYa5tNI2OKvLBJCDxL5qEzHMz/4ib1xvZwXhHGPMoQ="
         }
       ]
     },
     {
       "Route": "hafamex-clients.styles.css.gz",
-      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-m05467cap2.gz",
+      "AssetFile": "E:\\Source\\hafamex-clients\\obj\\Debug\\net9.0\\compressed\\baq8ctmubs-nqtf54683s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4150,7 +4490,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3500"
+          "Value": "6115"
         },
         {
           "Name": "Content-Type",
@@ -4158,11 +4498,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8=\""
+          "Value": "\"9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 09 Mar 2025 11:30:08 GMT"
+          "Value": "Wed, 12 Mar 2025 07:31:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4180,7 +4520,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kq3/V+XNTEol8A0sWixEbs19mmQs41PZ9BF6udNZhC8="
+          "Value": "sha256-9CTZzZ6O98Lf6BWTexOcByxV8NajqAv9gkPF2FhyyyQ="
         }
       ]
     },

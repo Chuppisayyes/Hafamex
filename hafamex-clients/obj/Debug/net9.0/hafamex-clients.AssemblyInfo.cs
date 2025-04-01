@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hafamex-clients")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b1b18b48d53f269aa4a35fea48640d9351d1895")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a911da3e831ee9e5ff44c3406482be95d5171551")]
 [assembly: System.Reflection.AssemblyProductAttribute("hafamex-clients")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hafamex-clients")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

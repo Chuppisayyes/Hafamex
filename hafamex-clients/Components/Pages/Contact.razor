@@ -1,0 +1,128 @@
+@page "/contact"
+@inject IJSRuntime JS
+<header class="header position-fixed top-0 w-100 z-2 bg-white shadow-sm">
+    <div class="hd-container d-flex justify-content-between">
+        <div class="hd-left py-3">
+            <div class="logo d-flex align-items-center">
+                <img src="/Assets/Images/logoNenTrang.jpg" width="100px" height="100px" alt="logo_nen_xanh" />
+                <h2 class="dancing-script-400">Hafamex Fruit</h2>
+            </div>
+        </div>
+        <div class="hd-right py-3">
+            <div class="menu">
+                <ul class="nav">
+                    <li class="nav-item">
+                        <a class="" href="" id="home">Home</a>
+                    </li>
+                    <li class="active">
+                        <a class="" href="">About us</a>
+                    </li>
+                    <li class="has-dropdown nav-item">
+                        <div class="d-flex align-items-center">
+                            <a class="" href="">Product</a>
+                            <i class="fa-solid fa-chevron-down ms-2"></i>
+                        </div>
+                        <ul class="sub-menu">
+                            <li class="sub-menu-item"><a href="">Fresh Fruit</a></li>
+                            <li class="sub-menu-item"><a href="">Fresh Vegetable</a></li>
+                            <li class="sub-menu-item"><a href="">Premium Fresh Fruits</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="" href="">News</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="" href="">Contact</a>
+                    </li>
+                    <li>
+                        <button type="submit" class="custom-button">
+                            (+84) 898 678 356
+                            <svg class="custom-icon" viewBox="0 0 16 19" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M7 18C7 18.5523 7.44772 19 8 19C8.55228 19 9 18.5523 9 18H7ZM8.70711 0.292893C8.31658 -0.0976311 7.68342 -0.0976311 7.29289 0.292893L0.928932 6.65685C0.538408 7.04738 0.538408 7.68054 0.928932 8.07107C1.31946 8.46159 1.95262 8.46159 2.34315 8.07107L8 2.41421L13.6569 8.07107C14.0474 8.46159 14.6805 8.46159 15.0711 8.07107C15.4616 7.68054 15.4616 7.04738 15.0711 6.65685L8.70711 0.292893ZM9 18L9 1H7L7 18H9Z"
+                                    class="icon-path"></path>
+                            </svg>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="container-fluid position-relative" style="margin-top: 130px; min-height: 100vh;">
+    <div class="row">
+        <div class="col-5 d-flex flex-column justify-content-between">
+            <h1 class="fw-light text-uppercase  position-absolute ps-5"
+                style="font-size: 7rem; left: 0; z-index: 1; line-height: 10rem;letter-spacing: 1rem;">
+                Contact Hafamex <br> Farm
+            </h1>
+            <p class="text-wrap w-75 ps-5" style="margin-top: 350px;">For more information on our services and a
+                <span class="fw-bold text-primary">free</span> quotation, feel free to contact us.
+            </p>
+            <div class="ps-5 mt-5">
+                <hr style="width:200px; height:4px; background-color:black; border:none;" />
+            </div>
+
+            @* Bussiness Hours *@
+            <div class="ps-4 mt-5">
+                <div class="icon-content d-flex align-items-center gap-2">
+                    <svg width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="50" cy="50" r="40" stroke="#c47c48" stroke-width="3" fill="none" />
+                        <line x1="50" y1="50" x2="50" y2="30" stroke="#c47c48" stroke-width="3"
+                            stroke-linecap="round" />
+                        <line x1="50" y1="50" x2="65" y2="50" stroke="#c47c48" stroke-width="3"
+                            stroke-linecap="round" />
+                        <line x1="50" y1="12" x2="50" y2="18" stroke="#c47c48" stroke-width="2" />
+                        <line x1="50" y1="82" x2="50" y2="88" stroke="#c47c48" stroke-width="2" />
+                        <line x1="12" y1="50" x2="18" y2="50" stroke="#c47c48" stroke-width="2" />
+                        <line x1="82" y1="50" x2="88" y2="50" stroke="#c47c48" stroke-width="2" />
+                    </svg>
+                    <h3 class="fw-bold text-dark mb-0">Business Hours</h3>
+                </div>
+                <p class="fs-6 fw-light ms-5 mt-1">24/7</p>
+            </div>
+            @* Contact Info *@
+            <div class="ps-4 #c47c48 mt-3">
+                <div class="icon-content d-flex align-items-center gap-2">
+                    <svg width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Vòng tròn ngoài -->
+                        <circle cx="50" cy="50" r="40" stroke="#c47c48" stroke-width="3" fill="none" />
+
+                        <!-- Hình bao thư -->
+                        <rect x="25" y="35" width="50" height="30" stroke="#c47c48" stroke-width="3" fill="none" />
+
+                        <!-- Đường gập phong bì -->
+                        <polyline points="25,35 50,55 75,35" stroke="#c47c48" stroke-width="3" fill="none" />
+                    </svg>
+                    <h3 class="fw-bold text-dark mb-0">Contact Info</h3>
+                </div>
+                <p class="fs-6 fw-light ms-5 mt-1">(+84) 898 678 356</p>
+                <p class="fs-6 fw-light ms-5 mt-1">info@gmail.com</p>
+            </div>
+            @*Address*@
+            <div class="ps-4 #c47c48 mt-3">
+                <div class="icon-content d-flex align-items-center gap-2">
+                    <svg width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Vòng tròn ngoài -->
+                        <circle cx="50" cy="50" r="40" stroke="#c47c48" stroke-width="3" fill="none" />
+
+                        <!-- Hình bao thư -->
+                        <rect x="25" y="35" width="50" height="30" stroke="#c47c48" stroke-width="3" fill="none" />
+
+                        <!-- Đường gập phong bì -->
+                        <polyline points="25,35 50,55 75,35" stroke="#c47c48" stroke-width="3" fill="none" />
+                    </svg>
+                    <h3 class="fw-bold text-dark mb-0">Address</h3>
+                </div>
+                <p class="fs-6 fw-light ms-5 mt-1">Head Office: Floor 3, Block I, Eco Green Resident, 39B Nguyen Van
+                    Linh, Tan Thuan Tay, District 7, Ho Chi Minh city, Vietnam
+                    Farm: Ham Thuan Nam ward, Binh Thuan Province, Vietnam</p>
+            </div>
+        </div>
+        <div class="col-7 d-flex align-items-center justify-content-end" style="min-height: 85vh;">
+            <img src="/Assets/Images/fruitBackground.jpg" alt="Fruit Background"
+                class="img-fluid w-100 h-100 object-fit-cover">
+        </div>
+    </div>
+</section>
